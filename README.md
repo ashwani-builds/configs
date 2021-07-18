@@ -1,1 +1,1 @@
-I # Repository containing the my configuration files
+# Repository containing the my configuration files
